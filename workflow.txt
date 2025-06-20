@@ -1,0 +1,43 @@
+Module - 1 : Scrape the website
+
+- Use "BeautifulSoup" to extract content of website
+- clean the raw text
+- divide it into 
+
+Tech stack : BeautifulSoup, requests, or playwright, RecursiveTextSplitter (Langchain)
+
+-------------------------------------------------------------------------------------------
+
+Module - 2 : Embeddings & vector store
+- convert chunks into vectors
+- store vector embeddings into FAISS
+
+Tech stack : AzureOpenAIEmbeddings (Embedding model), FAISS (Vector store)
+
+-------------------------------------------------------------------------------------------
+
+Module - 3 : Taking user query input & do embeddings
+
+- get user query using streamlit
+- convert it into embeddings
+
+Tech stack : Streamlit, AzureOpenAIEmbeddings (Embedding model) 
+
+-------------------------------------------------------------------------------------------
+
+Module - 4 : Retriever
+
+- similarity search on vector DB
+- Retrieve top_k searches
+
+-------------------------------------------------------------------------------------------
+
+Module - 5 : LLM-based answer
+
+- pass user query and top_k chunks to LLM
+- Use AzureChatOpenAI to answer with prompt: "Answer the question using the context below:\n\n<context>\n\nQuestion: <query>"
+- show output using streamlit
+
+Tech stack : AzureChatOpenAI (LLM), streamlit
+
+-------------------------------------------------------------------------------------------
