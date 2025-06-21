@@ -2,13 +2,14 @@ Module - 1 : Scrape the website
 
 - Use "BeautifulSoup" to extract content of website
 - clean the raw text
-- divide it into 
+- divide it into chunks
 
 Tech stack : BeautifulSoup, requests, or playwright, RecursiveTextSplitter (Langchain)
 
 -------------------------------------------------------------------------------------------
 
 Module - 2 : Embeddings & vector store
+
 - convert chunks into vectors
 - store vector embeddings into FAISS
 
