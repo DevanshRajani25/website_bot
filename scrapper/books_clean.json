@@ -1,0 +1,352 @@
+[
+  {
+    "title": "A Light in the Attic",
+    "price": "51.77",
+    "availability": "In stock",
+    "rating": 3,
+    "category": "Poetry"
+  },
+  {
+    "title": "In Her Wake",
+    "price": "12.84",
+    "availability": "In stock",
+    "rating": 1,
+    "category": "Thriller"
+  },
+  {
+    "title": "Slow States of Collapse: Poems",
+    "price": "57.31",
+    "availability": "In stock",
+    "rating": 3,
+    "category": "Poetry"
+  },
+  {
+    "title": "The Nameless City (The Nameless City #1)",
+    "price": "38.16",
+    "availability": "In stock",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+    "price": "13.61",
+    "availability": "In stock",
+    "rating": 5,
+    "category": "Sequential Art"
+  },
+  {
+    "title": "Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine",
+    "price": "57.36",
+    "availability": "In stock",
+    "rating": 5,
+    "category": "Science"
+  },
+  {
+    "title": "Algorithms to Live By: The Computer Science of Human Decisions",
+    "price": "30.81",
+    "availability": "In stock",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "title": "The Shadow Hero (The Shadow Hero)",
+    "price": "33.14",
+    "availability": "In stock",
+    "rating": 1,
+    "category": "Sequential Art"
+  },
+  {
+    "title": "The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.",
+    "price": "32.00",
+    "availability": "In stock",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "title": "Modern Romance",
+    "price": "28.26",
+    "availability": "In stock",
+    "rating": 5,
+    "category": "Add a comment"
+  },
+  {
+    "title": "Dark Notes",
+    "price": "19.19",
+    "availability": "In stock",
+    "rating": 5,
+    "category": "Erotica"
+  },
+  {
+    "title": "Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity",
+    "price": "38.20",
+    "availability": "In stock",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+    "price": "16.88",
+    "availability": "In stock",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "title": "Swell: A Year of Waves",
+    "price": "45.58",
+    "availability": "In stock",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "title": "My Name Is Lucy Barton",
+    "price": "41.56",
+    "availability": "In stock",
+    "rating": 1,
+    "category": "Fiction"
+  },
+  {
+    "title": "Hold Your Breath (Search and Rescue #1)",
+    "price": "28.82",
+    "availability": "In stock",
+    "rating": 1,
+    "category": "Romance"
+  },
+  {
+    "title": "Code Name Verity (Code Name Verity #1)",
+    "price": "22.13",
+    "availability": "In stock",
+    "rating": 4,
+    "category": "Add a comment"
+  },
+  {
+    "title": "All the Light We Cannot See",
+    "price": "29.87",
+    "availability": "In stock",
+    "rating": 5,
+    "category": "Historical"
+  },
+  {
+    "title": "The Midnight Watch: A Novel of the Titanic and the Californian",
+    "price": "26.20",
+    "availability": "In stock",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "title": "Hide Away (Eve Duncan #20)",
+    "price": "11.84",
+    "availability": "In stock",
+    "rating": 1,
+    "category": "Mystery"
+  },
+  {
+    "title": "Mothering Sunday",
+    "price": "13.34",
+    "availability": "In stock",
+    "rating": 2,
+    "category": "Fiction"
+  },
+  {
+    "title": "Without Shame",
+    "price": "48.27",
+    "availability": "In stock",
+    "rating": 5,
+    "category": "Add a comment"
+  },
+  {
+    "title": "Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster",
+    "price": "35.92",
+    "availability": "In stock",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "title": "Roller Girl",
+    "price": "14.10",
+    "availability": "In stock",
+    "rating": 5,
+    "category": "Sequential Art"
+  },
+  {
+    "title": "Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back",
+    "price": "52.86",
+    "availability": "In stock",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "title": "The Story of Art",
+    "price": "41.14",
+    "availability": "In stock",
+    "rating": 4,
+    "category": "Art"
+  },
+  {
+    "title": "Nightstruck: A Novel",
+    "price": "50.35",
+    "availability": "In stock",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "title": "Benjamin Franklin: An American Life",
+    "price": "48.19",
+    "availability": "In stock",
+    "rating": 3,
+    "category": "Biography"
+  },
+  {
+    "title": "The Barefoot Contessa Cookbook",
+    "price": "59.92",
+    "availability": "In stock",
+    "rating": 5,
+    "category": "Food and Drink"
+  },
+  {
+    "title": "World Without End (The Pillars of the Earth #2)",
+    "price": "32.97",
+    "availability": "In stock",
+    "rating": 4,
+    "category": "Historical Fiction"
+  },
+  {
+    "title": "The Dream Thieves (The Raven Cycle #2)",
+    "price": "34.50",
+    "availability": "In stock",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "title": "Isla and the Happily Ever After (Anna and the French Kiss #3)",
+    "price": "48.13",
+    "availability": "In stock",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "title": "Alight (The Generations Trilogy #2)",
+    "price": "58.59",
+    "availability": "In stock",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "title": "Shopaholic Ties the Knot (Shopaholic #3)",
+    "price": "48.39",
+    "availability": "In stock",
+    "rating": 5,
+    "category": "Womens Fiction"
+  },
+  {
+    "title": "Far From True (Promise Falls Trilogy #2)",
+    "price": "34.93",
+    "availability": "In stock",
+    "rating": 2,
+    "category": "Thriller"
+  },
+  {
+    "title": "Walk the Edge (Thunder Road #2)",
+    "price": "32.36",
+    "availability": "In stock",
+    "rating": 3,
+    "category": "Young Adult"
+  },
+  {
+    "title": "The Silkworm (Cormoran Strike #2)",
+    "price": "23.05",
+    "availability": "In stock",
+    "rating": 5,
+    "category": "Mystery"
+  },
+  {
+    "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+    "price": "33.92",
+    "availability": "In stock",
+    "rating": 3,
+    "category": "Business"
+  },
+  {
+    "title": "The Da Vinci Code (Robert Langdon #2)",
+    "price": "22.96",
+    "availability": "In stock",
+    "rating": 2,
+    "category": "Fiction"
+  },
+  {
+    "title": "Seven Days in the Art World",
+    "price": "52.33",
+    "availability": "In stock",
+    "rating": 2,
+    "category": "Add a comment"
+  },
+  {
+    "title": "Notes from a Small Island (Notes From a Small Island #1)",
+    "price": "40.17",
+    "availability": "In stock",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "title": "Jurassic Park (Jurassic Park #1)",
+    "price": "44.97",
+    "availability": "In stock",
+    "rating": 1,
+    "category": "Fiction"
+  },
+  {
+    "title": "Girl in the Blue Coat",
+    "price": "46.83",
+    "availability": "In stock",
+    "rating": 2,
+    "category": "Historical Fiction"
+  },
+  {
+    "title": "Civilization and Its Discontents",
+    "price": "59.95",
+    "availability": "In stock",
+    "rating": 2,
+    "category": "Psychology"
+  },
+  {
+    "title": "Annie on My Mind",
+    "price": "36.83",
+    "availability": "In stock",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "title": "Fruits Basket, Vol. 2 (Fruits Basket #2)",
+    "price": "11.64",
+    "availability": "In stock",
+    "rating": 5,
+    "category": "Sequential Art"
+  },
+  {
+    "title": "The Secret Healer",
+    "price": "34.56",
+    "availability": "In stock",
+    "rating": 3,
+    "category": "Historical Fiction"
+  },
+  {
+    "title": "The Bhagavad Gita",
+    "price": "57.49",
+    "availability": "In stock",
+    "rating": 3,
+    "category": "Religion"
+  },
+  {
+    "title": "On the Road (Duluoz Legend)",
+    "price": "32.36",
+    "availability": "In stock",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "title": "Frankenstein",
+    "price": "38.00",
+    "availability": "In stock",
+    "rating": 2,
+    "category": "Default"
+  }
+]
